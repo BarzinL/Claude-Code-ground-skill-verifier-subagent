@@ -1,6 +1,6 @@
 # Claude Code: `/ground` skill and verifier subagent
 
-Battle-tested /ground skill and verifier subagent for Claude Code: consistently produce 95% bug-free code with Opus 4.8 by grounding the agent in your codebase's actual wiring, eliminating all assumptions.
+Battle-tested /ground skill and verifier subagent for Claude Code: consistently produce 95% bug-free code with Opus 4.8 by grounding the agent in your codebase's actual wiring, eliminating Opus 4.8's tendency to often make assumptions, inferences, and assertions about how things work without actually checking them and knowing whether that is the case for sure.
 
 ## How to Use:
 
