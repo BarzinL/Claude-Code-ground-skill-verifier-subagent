@@ -1,5 +1,12 @@
 # Claude Code: `/ground` skill and verifier subagent
 
+> **Part of a larger collection.** This repo is the focused, single-purpose home for the
+> `/ground` skill + verifier subagent. It's also bundled - alongside a theory-formation
+> reasoning discipline and a send-time verification-claim Stop hook - in
+> [barzins-cc-improvements](https://github.com/BarzinL/barzins-cc-improvements), my full
+> set of Claude Code honesty/grounding tools. Grab just this, or the whole collection there.
+
+
 Battle-tested `/ground` skill and verifier subagent for Claude Code: consistently produce 95% bug-free code with Opus 4.8 by grounding the agent in your codebase's actual wiring, eliminating Opus 4.8's tendency to often make assumptions, inferences, and assertions about how things work without actually checking them and knowing whether that is the case for sure.
 
 Completely serviceable for production codebase development.
